@@ -1,0 +1,29 @@
+.name {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.img {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+}
+.currency-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 170px;
+}
+.image-cont {
+  display: flex;
+  align-items: center;
+}
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
